@@ -1,0 +1,5 @@
+# Build artifacts
+IonStack/CVE-2026-43499/exploit/build/
+
+# Temp files
+.tmp/
